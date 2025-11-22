@@ -31,7 +31,7 @@ A donut chart showing the percentage of employees leaving based on education bac
 * Marketing (15%)
 * Technical Degree (14%)
 * Other (5%)
-
+..
 ---
 
 ### ✔ **2. Attrition by Age Group**
@@ -42,7 +42,7 @@ Bar chart showing attrition count across age groups:
 * **18–25:** 44
 * **36–45:** 43
 * **46–55:** 26
-* **55+:** 8
+* **55+:** 8.0
 
 ---
 
