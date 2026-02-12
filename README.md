@@ -132,5 +132,6 @@ Feel free to fork this project and submit pull requests. Suggestions and improve
 For any queries or collaboration:
 
 **Maroti Biradar**
+**marotibiradar38@gmail.com**
 
 If you want, I can also format this README with badges, table of contents, screenshots, or add installation instructions.
