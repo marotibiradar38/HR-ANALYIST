@@ -84,7 +84,7 @@ Comparison table and bar graph showing job roles with the highest attrition:
 
 ## 🛠 **Tools & Technologies Used**
 
-* **Power BI** – Data modeling, DAX calculations, interactive visuals
+* **Power BI** – Data modeling, DAX calculations, interactive visuals 
 * **Excel / CSV Dataset** – HR employee records
 * **Power Query Editor** – Data cleaning & transformation
 * **DAX Measures** – Attrition rate, totals, averages
@@ -103,7 +103,7 @@ Comparison table and bar graph showing job roles with the highest attrition:
 
 ## 🎯 **Purpose of the Dashboard**
 
-This project helps organizations:
+This project helps organizations: 
 
 * Identify high-risk employee segments
 * Understand attrition patterns by education, age, salary, and job role
@@ -121,7 +121,7 @@ This project helps organizations:
 
 ---
 
-## 🤝 **Contributions**
+## 🤝 **Contributions** 
 
 Feel free to fork this project and submit pull requests. Suggestions and improvements are always welcome!
 
