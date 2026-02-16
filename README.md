@@ -29,7 +29,7 @@ A donut chart showing the percentage of employees leaving based on education bac
 * Life Sciences (38%)
 * Medical (27%)
 * Marketing (15%)
-* Technical Degree (14%)
+* Technical Degree (14%) 
 * Other (5%)
 ..
 ---
