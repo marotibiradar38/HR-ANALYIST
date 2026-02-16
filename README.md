@@ -1,7 +1,7 @@
 # HR-ANALYIST
 # 📊 HR Analytics Dashboard – Power BI
 
-This repository contains an interactive **HR Analytics Dashboard** built using **Power BI**. The dashboard provides deep insights into employee attrition and workforce demographics, helping HR teams make data-driven decisions.
+This repository contains an interactive **HR Analytics Dashboard** built using **Power BI**. The dashboard provides deep insights into employee attrition and workforce demographics, helping HR teams make data-driven decisions. 
 
 ---
 
@@ -10,10 +10,10 @@ This repository contains an interactive **HR Analytics Dashboard** built using *
 The HR Analytics Dashboard analyzes key HR metrics such as ;
 
 * **Total Employees:** 1470
-* **Total Attrition:** 237
-* **Attrition Rate:** 16.1%
+* **Total Attrition:** 237 
+* **Attrition Rate:** 16.1% 
 * **Average Age:** 37
-* **Average Salary:** 7K
+* **Average Salary:** 7K  
 * **Average Years at Company:** 7
 
 The dashboard helps organizations identify patterns and take corrective actions to improve employee retention.
@@ -116,7 +116,7 @@ This project helps organizations:
 
 1. Clone the repository
 2. Download the `.pbix` file
-3. Open it in **Power BI Desktop**
+3. Open it in **Power BI Desktop** 
 4. Explore and customize as needed
 
 ---
