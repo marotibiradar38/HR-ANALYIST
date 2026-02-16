@@ -22,7 +22,7 @@ The dashboard helps organizations identify patterns and take corrective actions 
 
 ## 📈 **Dashboard Highlights**
 
-### ✔ **1. Attrition by Education**
+### ✔ **1. Attrition by Education** 
 
 A donut chart showing the percentage of employees leaving based on education background:
 
