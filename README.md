@@ -1,5 +1,5 @@
 # HR-ANALYIST  
-# 📊 HR Analytics Dashboard – Power BI
+# 📊 HR Analytics Dashboard 
 
 This repository contains an interactive **HR Analytics Dashboard** built using **Power BI**. The dashboard provides deep insights into employee attrition and workforce demographics, helping HR teams make data-driven decisions. 
 
