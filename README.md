@@ -9,7 +9,7 @@ This repository contains an interactive **HR Analytics Dashboard** built using *
    
 The HR Analytics Dashboard analyzes key HR metrics such as ; 
 
-* **Total Employees:** 1470
+* **Total Employees:** 1470 
 * **Total Attrition:** 237 
 * **Attrition Rate:** 16.1% 
 * **Average Age:** 37
