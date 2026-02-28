@@ -5,7 +5,7 @@ This repository contains an interactive **HR Analytics Dashboard** built using *
 
 --- 
 
-## 🚀 **Project Overview**
+## 🚀 **Project Overview**   
    
 The HR Analytics Dashboard analyzes key HR metrics such as ;  
    
