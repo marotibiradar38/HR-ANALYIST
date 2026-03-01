@@ -6,7 +6,7 @@ This repository contains an interactive **HR Analytics Dashboard** built using *
 --- 
 
 ## 🚀 **Project Overview**   
-   
+    
 The HR Analytics Dashboard analyzes key HR metrics such as ;  
    
 * **Total Employees:** 1470 
