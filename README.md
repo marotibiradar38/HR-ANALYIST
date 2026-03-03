@@ -12,7 +12,7 @@ The HR Analytics Dashboard analyzes key HR metrics such as ;
 * **Total Employees:** 1470 
 * **Total Attrition:** 237 
 * **Attrition Rate:** 16.1% 
-* **Average Age:** 37
+* **Average Age:** 37   
 * **Average Salary:** 7K  
 * **Average Years at Company:** 7
 
